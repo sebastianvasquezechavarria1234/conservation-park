@@ -69,5 +69,3 @@ Contributions are welcome! If you're interested in supporting the digital presen
 ## 📜 License
 This project is developed for educational and institutional awareness purposes.
 
----
-Developed with ❤️ for Wildlife Conservation. 🌍
